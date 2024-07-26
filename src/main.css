@@ -9,31 +9,6 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-/* NAV */
-
-nav {
-    background-color: #f29950;
-    height: 70px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #fff;
-    box-shadow: 0 -9px 20px black;
-}
-
-nav p {
-    font-size: 1.25rem;
-    text-align: center;
-    margin: 0;
-    letter-spacing: -0.02rem;
-    word-spacing: -0.1rem;
-}
-
-nav .logo {
-    font-size: 2rem;
-    margin-right: 0.5rem;
-}
-
 
 /* CARDS */
 
@@ -43,13 +18,15 @@ nav .logo {
 
 .cards-list {
     padding: 1em;
+    display: flex;
+    flex-direction: column;
 }
 
 .card {
     display: flex;
     gap: 1em;
     margin-bottom: 1em;
-    height: 17em;
+    max-width: 800px;
     padding-bottom: 1em;
     border-bottom: 1px solid #918E9B;
 }
@@ -106,13 +83,21 @@ nav .logo {
 
 .card--img {
     width: 10em;
-    height: 100%;
     border-radius: .5rem;
     margin: auto;
     object-fit: cover;
     box-shadow: 0 0px 10px 0px #00000033;
+    align-self: stretch;
 }
 
 .card--location {
     margin-top: auto;
 }
+
+/* MEDIA QUERIES */
+
+/* @media screen and (min-width: 700px) {
+    .card {
+        height: 17em;
+    }
+} */

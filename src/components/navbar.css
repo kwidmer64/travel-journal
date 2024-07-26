@@ -1,0 +1,24 @@
+/* NAV */
+
+nav {
+    background-color: #f29950;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    box-shadow: 0 -9px 20px black;
+}
+
+nav p {
+    font-size: 1.25rem;
+    text-align: center;
+    margin: 0;
+    letter-spacing: -0.02rem;
+    word-spacing: -0.1rem;
+}
+
+nav .logo {
+    font-size: 2rem;
+    margin-right: 0.5rem;
+}
