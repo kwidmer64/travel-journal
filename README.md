@@ -1,12 +1,7 @@
-# Getting Started
-Install the dependencies and run the project in watch mode
-```
-npm install
-npm run build # or watch to rebuild on change
-open index.html
-```
-Note that using Webpack is obselete and this archive has been provided
-for compatibility reasons. Prefer using Vite, check it at https://vitejs.dev
+# [Travel Journal](https://kwidmer-travel-journal.netlify.app/)
+A color scheme generator made while learning React.js in the web development course on [scrimba.com](https://v2.scrimba.com/home).
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
