@@ -1,4 +1,5 @@
 import React from "react"
+import "../style.css"
 
 // <img src={props.item.imageUrl} alt={`A picture of ${props.item.title}`}/>
 // <div className="bg-img" style={{backgroundImage: `url(${props.item.imageUrl})`}}></div>
