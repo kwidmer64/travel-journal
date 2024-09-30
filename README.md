@@ -1,5 +1,5 @@
 # [Travel Journal](https://kwidmer-travel-journal.netlify.app/)
-A color scheme generator made while learning React.js in the web development course on [scrimba.com](https://v2.scrimba.com/home).
+A personal travel journal made while learning React.js in the web development course on [scrimba.com](https://v2.scrimba.com/home).
 
 
 ## About Scrimba
