@@ -6,7 +6,7 @@ export default [
         location: "United States",
         googleMapsUrl: "https://maps.app.goo.gl/4GXSAaxeupqWhuZm9",
         startDate: "19 May, 2024",
-        endDate: "Present",
+        endDate: "17 August, 2024",
         description: "87-acre reservoir with a Christian camp facility, open to the public for hiking, swimming & fishing.",
         imageUrl: "https://images.unsplash.com/photo-1582222228565-ecaea7d1fa63?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
@@ -14,8 +14,8 @@ export default [
         title: "Moab",
         location: "United States",
         googleMapsUrl: "https://maps.app.goo.gl/6PBytTLJTMDq2T187",
-        startDate: "19 May, 2024",
-        endDate: "XX May, 2024",
+        startDate: "15 May, 2024",
+        endDate: "17 May, 2024",
         description: "Moab is a city in eastern Utah. It’s a gateway to massive red rock formations in Arches National Park. Southwest, Canyonlands National Park features mesas and buttes carved by the Green and Colorado rivers, plus Native American rock art.",
         imageUrl: "https://images.unsplash.com/photo-1504281490492-090c5c169650?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
