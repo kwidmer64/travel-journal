@@ -2,6 +2,15 @@
 
 export default [
     {
+        title: "Ocean Grove",
+        location: "New Jersey, United States",
+        googleMapsUrl: "https://maps.app.goo.gl/jwifPz9M21FfFgfD8",
+        startDate: "25 December, 2025",
+        endDate: "1 January, 2026",
+        description: "Ocean Grove, a resort town on the Atlantic Ocean is known for its quaint Victorian houses and the Great Auditorium, a huge wooden theater that hosts Sunday worship services and concerts. Backed by a long boardwalk, Ocean Grove Beach is popular with families, and the charming town center is dotted with ice cream parlors and breakfast spots",
+        imageUrl: "https://images.unsplash.com/photo-1629572099714-38cb0a001e6d?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
         title: "Seattle",
         location: "Washington, United States",
         googleMapsUrl: "https://maps.app.goo.gl/LA8k9c7qXcjHhq6u6",
