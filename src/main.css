@@ -38,6 +38,7 @@ body {
     flex-direction: column;
     justify-content: center;
     color: #2B283A;
+    padding-right: 2rem;
 }
 
 .card--info {
