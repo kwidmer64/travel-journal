@@ -2,8 +2,17 @@
 
 export default [
     {
+        title: "Seattle",
+        location: "Washington, United States",
+        googleMapsUrl: "https://maps.app.goo.gl/LA8k9c7qXcjHhq6u6",
+        startDate: "4 October, 2025",
+        endDate: "6 October, 2025",
+        description: "Seattle, a city on Puget Sound in the Pacific Northwest, is surrounded by water, mountains and evergreen forests, and contains thousands of acres of parkland. The futuristic Space Needle, a 1962 World’s Fair legacy, is its most iconic landmark.",
+        imageUrl: "https://images.unsplash.com/photo-1594664233467-708a77a3299f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fHNlYXR0bGV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
         title: "Hume Lake",
-        location: "United States",
+        location: "California, United States",
         googleMapsUrl: "https://maps.app.goo.gl/4GXSAaxeupqWhuZm9",
         startDate: "19 May, 2024",
         endDate: "17 August, 2024",
@@ -12,12 +21,21 @@ export default [
     },
     {
         title: "Moab",
-        location: "United States",
+        location: "Utah, United States",
         googleMapsUrl: "https://maps.app.goo.gl/6PBytTLJTMDq2T187",
         startDate: "15 May, 2024",
         endDate: "17 May, 2024",
         description: "Moab is a city in eastern Utah. It’s a gateway to massive red rock formations in Arches National Park. Southwest, Canyonlands National Park features mesas and buttes carved by the Green and Colorado rivers, plus Native American rock art.",
         imageUrl: "https://images.unsplash.com/photo-1504281490492-090c5c169650?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        title: "Rocky Mountains",
+        location: "Colorado, United States",
+        googleMapsUrl: "https://maps.app.goo.gl/B23WASdwqvShvMKR7",
+        startDate: "14 May, 2024",
+        endDate: "15 May, 2024",
+        description: "Iconic mountain range from central New Mexico to Canada & extending 3000 miles through six states.",
+        imageUrl: "https://images.unsplash.com/photo-1619408507347-03b1e31851c5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJvY2t5JTIwbW91bnRhaW5zfGVufDB8fDB8fHww"
     },
     {
         title: "Lake Bled",
