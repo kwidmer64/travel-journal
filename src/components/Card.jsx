@@ -19,7 +19,6 @@ export default function Card(props) {
                 <p className="card--date">{props.item.startDate} - {props.item.endDate}</p>
                 <p className="card--description">{props.item.description}</p>
             </div>
-            <hr/>
         </div>
     )
 }
